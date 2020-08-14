@@ -1,3 +1,11 @@
+# [Использование Typescript с React](https://habr.com/ru/company/otus/blog/456124/)
+
+- [Sancho UI](https://sancho-ui.com/#installation)
+- [Blueprint](https://blueprintjs.com/docs/#blueprint)
+- [MobX](https://mobx.js.org/README.html)
+
+-------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
